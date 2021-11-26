@@ -48,6 +48,14 @@ margin:20px;
     width: 170px;
     margin-top: 14px;
 }
+.red{
+    color:red;
+}
+.gameplay{
+    width: 190px;
+    padding-top:14px;
+    text-align:center;
+}
 
 
 .main-nav {
